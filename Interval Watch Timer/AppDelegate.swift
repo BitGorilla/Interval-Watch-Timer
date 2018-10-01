@@ -4,7 +4,7 @@
 //
 //  Created by Martin Sjölund on 2018-10-01.
 //  Copyright © 2018 Martin Sjölund. All rights reserved.
-//
+//  comment
 
 import UIKit
 
